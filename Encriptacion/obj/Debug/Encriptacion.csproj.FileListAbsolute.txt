@@ -1,0 +1,9 @@
+c:\users\globatos\documents\visual studio 2015\Projects\Encriptacion\Encriptacion\bin\Debug\Encriptacion.exe.config
+c:\users\globatos\documents\visual studio 2015\Projects\Encriptacion\Encriptacion\bin\Debug\Encriptacion.exe
+c:\users\globatos\documents\visual studio 2015\Projects\Encriptacion\Encriptacion\bin\Debug\Encriptacion.pdb
+c:\users\globatos\documents\visual studio 2015\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.csprojResolveAssemblyReference.cache
+c:\users\globatos\documents\visual studio 2015\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.Form1.resources
+c:\users\globatos\documents\visual studio 2015\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.Properties.Resources.resources
+c:\users\globatos\documents\visual studio 2015\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.csproj.GenerateResource.Cache
+c:\users\globatos\documents\visual studio 2015\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.exe
+c:\users\globatos\documents\visual studio 2015\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.pdb
